@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L91",
+    "cluster": "c25 修复伴随件",
+    "name": "检测件伴随",
+    "dir": "L91-paired-detector",
+    "loc": 57
+  },
+  {
+    "id": "L92",
+    "cluster": "c25 修复伴随件",
+    "name": "移植等价性",
+    "dir": "L92-port-equivalence",
+    "loc": 47
+  },
+  {
+    "id": "L93",
+    "cluster": "c25 修复伴随件",
+    "name": "跨实现等价",
+    "dir": "L93-cross-impl-equivalence",
+    "loc": 53
+  }
+]
